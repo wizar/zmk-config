@@ -14,6 +14,8 @@
 #define RSE 2
 #define ADJ 3
 
+&mt { quick_tap_ms =<200>; };
+
 / {
         keymap {
                 compatible = "zmk,keymap";
